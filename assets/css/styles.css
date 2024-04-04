@@ -29,3 +29,27 @@ html {
   h6 {
     font-family: "Bebas neus", cursive;
   }
+
+  h2,
+  .subtitle i {
+    font-size: 40px;
+  }
+  
+  .navbar {
+    margin: -40px 0;
+    background-color: rgba(0, 0, 0, 0.2);
+  }
+  
+  .navbar img {
+    height: 36px;
+    margin-right: 10px;
+  }
+  
+  .card {
+    color: black;
+  }
+  
+  .card img {
+    overflow: hidden;
+    background-size: cover;
+  }
