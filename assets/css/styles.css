@@ -6,4 +6,26 @@
     background-color: transparent !important;
   }
 
+  body {color: white;}
+
   
+html {
+    scroll-behavior: smooth;
+  }
+  
+  
+  body {
+    color: white;
+    background-color: black;
+    font-family: "Open Sans", sans-serif;
+    position: relative;
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: "Bebas neus", cursive;
+  }
